@@ -1,4 +1,4 @@
-# Arqora Studio — Brand & Design System
+# Arqora Studio : Brand & Design System
 Version 1.0 · 12 October 2026
 
 ## Brand position
@@ -30,8 +30,8 @@ Arqora is an independent creative technology studio spanning interface design, w
 Use violet for key actions, active states and small highlights. Mint is secondary, not a competing primary color. Avoid rainbow gradients and large saturated backgrounds.
 
 ## Typography
-- Display: Manrope, 700–800; tight tracking, short headlines.
-- UI/body: DM Sans, 400–700; readable body size and calm rhythm.
+- Display: Manrope, 700-800; tight tracking, short headlines.
+- UI/body: DM Sans, 400-700; readable body size and calm rhythm.
 - Code/data: JetBrains Mono when technical labels need a distinct voice.
 - Use no more than two type families in one asset unless code labels are required.
 
@@ -54,7 +54,7 @@ Use violet for key actions, active states and small highlights. Mint is secondar
 - README.md: setup, asset map and license notes
 
 ## Metadata policy
-Title: Arqora Studio — Digital products, designed to move
+Title: Arqora Studio : Digital products, designed to move
 Description: UI systems, web experiences and motion tools built for creative workflows.
 OG/Twitter preview: assets/brand/arqora-social-card.svg
 Do not publish a fake canonical URL, contact email, product checkout URL, analytics ID or availability claim. Add only real destinations.
