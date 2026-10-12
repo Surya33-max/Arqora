@@ -1,15 +1,15 @@
-# Arqora Studio : Brand & Design System
+# Kreovant Studio : Brand & Design System
 Version 1.0 · 12 October 2026
 
 ## Brand position
-Arqora is an independent creative technology studio spanning interface design, web development, motion design and useful digital products. The identity should feel precise, quietly expressive and practical, not like a generic AI-startup gradient generator.
+Kreovant is an independent digital marketplace spanning interface design, web development, motion design and useful digital products. The identity should feel precise, quietly expressive and practical, not like a generic AI-startup gradient generator.
 
 ## Identity
-- Name: Arqora
+- Name: Kreovant
 - Descriptor: Independent Digital Studio
 - Brand line: Digital products, designed to move.
 - Voice: clear, curious, capable, direct. Avoid inflated claims and vague “revolutionary” language.
-- Wordmark: lowercase “arqora”; the circular accent is a distinct finishing mark.
+- Wordmark: lowercase “kreovant”; the circular accent is a distinct finishing mark.
 - Symbol: rounded lowercase a-form paired with a small accent dot. Keep proportions; don't stretch or add effects.
 
 ## Color tokens
@@ -45,22 +45,22 @@ Use violet for key actions, active states and small highlights. Mint is secondar
 - Product states must distinguish concept, in-development and available.
 
 ## Design files
-- arqora-mark.svg: icon / favicon master
-- arqora-wordmark.svg: horizontal identity lockup
-- arqora-social-card.svg: 1200×630 social preview master
+- kreovant-mark.svg: icon / favicon master
+- kreovant-wordmark.svg: horizontal identity lockup
+- kreovant-social-card.svg: 1200×630 social preview master
 - tokens.css: canonical site tokens and focus styles
 - brand-system.json: machine-readable colors, typography, spacing and metadata
 - products/*.svg: standalone product artwork masters
 - README.md: setup, asset map and license notes
 
 ## Metadata policy
-Title: Arqora Studio : Digital products, designed to move
+Title: Kreovant Studio : Digital products, designed to move
 Description: UI systems, web experiences and motion tools built for creative workflows.
-OG/Twitter preview: assets/brand/arqora-social-card.svg
+OG/Twitter preview: assets/brand/kreovant-social-card.svg
 Do not publish a fake canonical URL, contact email, product checkout URL, analytics ID or availability claim. Add only real destinations.
 
 ## Accessibility
 Maintain visible focus rings, keyboard access, strong contrast and reduced-motion support. Do not use color alone to communicate state.
 
 ## Reference research and licensing
-Themesberg's open-source Neumorphism UI repository was reviewed as a design-pattern reference: https://github.com/technext/neumorphism-ui (MIT). Its logo and vendor artwork are not included as Arqora assets. If source code is copied later, preserve the upstream copyright and MIT notice.
+Themesberg's open-source Neumorphism UI repository was reviewed as a design-pattern reference: https://github.com/technext/neumorphism-ui (MIT). Its logo and vendor artwork are not included as Kreovant assets. If source code is copied later, preserve the upstream copyright and MIT notice.
