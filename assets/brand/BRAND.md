@@ -6,8 +6,8 @@ Kreovant is an independent digital marketplace spanning interface design, web de
 
 ## Identity
 - Name: Kreovant
-- Descriptor: Independent Digital Studio
-- Brand line: Digital products, designed to move.
+- Descriptor: Digital Marketplace
+- Brand line: Digital goods for creative work.
 - Voice: clear, curious, capable, direct. Avoid inflated claims and vague “revolutionary” language.
 - Wordmark: lowercase “kreovant”; the circular accent is a distinct finishing mark.
 - Symbol: rounded lowercase a-form paired with a small accent dot. Keep proportions; don't stretch or add effects.
