@@ -35,3 +35,5 @@
 .privacy-note{font-size:10px;line-height:1.7;color:#7b8596;margin-top:18px}
 @media(max-width:900px){.product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.design-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:640px){.product-grid{grid-template-columns:1fr}.design-grid{grid-template-columns:1fr}.design-image{height:250px}.design-market{padding-top:58px;padding-bottom:62px}}
+
+.visual-socialkit{background:linear-gradient(140deg,#171827,#38345d);color:#f5f3ff}.visual-socialkit .visual-tag,.visual-socialkit .visual-foot{color:#d2cbff}.visual-socialkit .product-artwork{width:100%;height:100%;object-fit:cover;position:absolute;inset:0}.product-bottom .text-link{white-space:nowrap;font-size:10px}
