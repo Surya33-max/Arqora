@@ -123,8 +123,8 @@
     const subject = encodeURIComponent('Arqora enquiry: ' + form.get('interest'));
     const body = encodeURIComponent('Name: ' + form.get('name') + '\nEmail: ' + form.get('email') + '\nInterest: ' + form.get('interest') + '\n\n' + (form.get('message') || ''));
     const note = document.getElementById('formNote');
-    if (note) note.textContent = 'Opening your email app. Add your preferred Arqora contact address in the mailto link before launch.';
-    window.location.href = 'mailto:?subject=' + subject + '&body=' + body;
+    if (note) note.textContent = 'Opening your email app with your enquiry addressed to Arqora Studio.';
+    window.location.href = 'mailto:suryalh44@gmail.com?subject=' + subject + '&body=' + body;
   });
   document.getElementById('year').textContent = new Date().getFullYear();
   applyFilters();
