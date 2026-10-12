@@ -1,7 +1,7 @@
 {
   "brand": "Kreovant",
-  "descriptor": "Independent Digital Studio",
-  "tagline": "Digital products, designed to move.",
+  "descriptor": "Digital Marketplace",
+  "tagline": "Digital goods for creative work.",
   "version": "1.0.0",
   "colors": {
     "canvas": "#E8E9EE",
@@ -64,7 +64,7 @@
     }
   },
   "metadata": {
-    "title": "Kreovant | Digital products for creative work",
+    "title": "Kreovant | Digital goods for creative work",
     "description": "UI systems, web experiences and motion tools built for creative workflows.",
     "locale": "en_IN",
     "socialImage": "assets/brand/kreovant-social-card.svg"
