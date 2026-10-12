@@ -1,4 +1,4 @@
-# Arqora Studio — product website
+# Arqora Studio : product website
 
 Responsive static storefront for Arqora, an independent creative technology studio. The site uses a refined soft-neumorphic system with violet and mint accents.
 
