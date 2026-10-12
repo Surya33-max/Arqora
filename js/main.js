@@ -120,7 +120,7 @@
   document.getElementById('contactForm')?.addEventListener('submit', event => {
     event.preventDefault();
     const form = new FormData(event.currentTarget);
-    const subject = encodeURIComponent('Arqora enquiry: ' + form.get('interest'));
+    const subject = encodeURIComponent('Kreovant enquiry: ' + form.get('interest'));
     const body = encodeURIComponent('Name: ' + form.get('name') + '\nEmail: ' + form.get('email') + '\nInterest: ' + form.get('interest') + '\n\n' + (form.get('message') || ''));
     const note = document.getElementById('formNote');
     if (note) note.textContent = 'Opening your email app with your enquiry addressed to Arqora Studio.';
