@@ -19,7 +19,7 @@ Run `python3 -m http.server 8000` from this directory and open `http://localhost
 ## Product kit\n- `social-launch-kit.html`: public kit landing page with individual SVG downloads and a client-side ZIP bundle action.\n- `assets/kits/social-launch-kit/*.svg`: 12 editable social layout templates.\n- The full source ZIP is stored in the working ChatGPT Library under `/Projects/Kreovant_Social_Launch_Kit_v1.0.0.zip`.\n\n## Metadata and release checks
 The title, description, Open Graph and Twitter metadata use Kreovant's marketplace positioning. The contact form opens an email draft. Confirm the live destination and domain before running paid campaigns. SVG social images may not render on every social crawler, so export a PNG fallback before launch.
 
-WhipRush is in development; the other catalogue items are concepts. Do not present them as purchasable until delivery, pricing and product destinations exist.
+Product status must stay explicit. The Social Launch Kit is available as individually downloadable SVG templates with a client-side ZIP bundle action. FrameFlow remains a local-testing prototype until it passes the Figma runtime QA checklist. Other catalogue concepts should not be represented as purchasable until delivery, pricing and product destinations exist.
 
 ## Reference
 Reviewed Themesberg's open-source Neumorphism UI repository for general neumorphic patterns: https://github.com/technext/neumorphism-ui (MIT). Its vendor logos and artwork are not included in the Kreovant identity. If code is copied from that upstream project later, preserve the copyright and MIT license notice.
