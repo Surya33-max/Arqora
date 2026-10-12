@@ -17,7 +17,7 @@ Run `python3 -m http.server 8000` from this directory and open `http://localhost
 - `js/main.js`: filters, search, mobile navigation and contact form behavior
 
 ## Metadata and release checks
-The title, description, Open Graph and Twitter metadata now use Kreovant's positioning. The final domain and real contact email are intentionally not fabricated: add them when confirmed. SVG social images may not render on every social crawler, so export a PNG fallback before launch.
+The title, description, Open Graph and Twitter metadata use Kreovant's marketplace positioning. The final domain and real contact email are intentionally not fabricated: add them when confirmed. SVG social images may not render on every social crawler, so export a PNG fallback before launch.
 
 WhipRush is in development; the other catalogue items are concepts. Do not present them as purchasable until delivery, pricing and product destinations exist.
 
