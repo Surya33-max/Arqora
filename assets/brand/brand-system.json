@@ -1,5 +1,5 @@
 {
-  "brand": "Arqora",
+  "brand": "Kreovant",
   "descriptor": "Independent Digital Studio",
   "tagline": "Digital products, designed to move.",
   "version": "1.0.0",
@@ -64,10 +64,10 @@
     }
   },
   "metadata": {
-    "title": "Arqora Studio : Digital products, designed to move",
+    "title": "Kreovant | Digital products for creative work",
     "description": "UI systems, web experiences and motion tools built for creative workflows.",
     "locale": "en_IN",
-    "socialImage": "assets/brand/arqora-social-card.svg"
+    "socialImage": "assets/brand/kreovant-social-card.svg"
   },
   "principles": [
     "quietly expressive",
